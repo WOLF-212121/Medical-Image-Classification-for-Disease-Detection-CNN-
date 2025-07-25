@@ -1,4 +1,5 @@
 🩺 Pneumonia Detection from Chest X-Ray Images Using Deep Learning
+
 ![Disease Detection Using CNN](Images/DiseaseDetectionUsingCNN.png)
 
 
@@ -98,7 +99,7 @@ CNN research papers and technical blogs for architecture understanding and imple
 
 Results - 
 
-![Confusion Matrix](Images/confusion_matrix.png)
+![Confusion Matrix](Images/confusionmatrix.png)
 
 
 
