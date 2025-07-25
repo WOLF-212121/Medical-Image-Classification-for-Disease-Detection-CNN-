@@ -98,7 +98,7 @@ CNN research papers and technical blogs for architecture understanding and imple
 
 Results - 
 
-![Confusion Matrix](Images/confusion%matrix.png)
+![Confusion Matrix](Images/confusion20%matrix.png)
 
 
 
