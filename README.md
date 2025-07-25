@@ -6,6 +6,8 @@
 This project develops a Convolutional Neural Network (CNN) to classify chest X-ray images for early pneumonia detection, 
 assisting healthcare professionals in diagnosis and treatment planning, particularly in resource-constrained settings.
 
+Dataset Link - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
 🚀 Problem Statement
 * Automate pneumonia detection from chest X-rays using deep learning.
   
