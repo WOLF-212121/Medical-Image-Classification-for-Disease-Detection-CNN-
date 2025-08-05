@@ -1,4 +1,4 @@
-🩺 Pneumonia Detection from Chest X-Ray Images Using Deep Learning
+# **🩺 Pneumonia Detection from Chest X-Ray Images Using Deep Learning**
 
 ![Disease Detection Using CNN](Images/DiseaseDetectionUsingCNN.png)
 
@@ -6,9 +6,9 @@
 This project develops a Convolutional Neural Network (CNN) to classify chest X-ray images for early pneumonia detection, 
 assisting healthcare professionals in diagnosis and treatment planning, particularly in resource-constrained settings.
 
-Dataset Link - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+# Dataset Link - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-🚀 Problem Statement
+# 🚀 Problem Statement
 * Automate pneumonia detection from chest X-rays using deep learning.
   
 * Build and train a CNN to classify images accurately.
@@ -17,7 +17,7 @@ Dataset Link - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneu
   
 * Evaluate using accuracy, precision, recall, and analyze misclassifications to identify improvement areas.
 
-🖥️ System Requirements
+# 🖥️ System Requirements
 
 ✅ IDE: Google Colab with T4 GPU
 
@@ -36,7 +36,7 @@ TensorFlow – CNN model building and training
 Scikit-Learn – Model evaluation (accuracy, precision, recall, confusion matrix)
 
 
-⚡ Workflow
+#⚡ Workflow
 
 1️⃣ Dataset Loading: Import X-ray dataset using KaggleHub into Colab.
 
@@ -70,7 +70,7 @@ Visualized confusion matrix.
 
 79 misclassifications, including 5 critical false negatives requiring further attention.  
 
-✅ Conclusion
+# ✅ Conclusion
 
 The CNN model achieved 92% testing accuracy in pneumonia detection.
 
@@ -78,7 +78,7 @@ The CNN model achieved 92% testing accuracy in pneumonia detection.
 
 The project demonstrates deep learning’s potential in automated medical image analysis to support early pneumonia diagnosis.
 
-🚀 Future Scope
+# 🚀 Future Scope
 
 Advanced Architectures: Utilize VGG16, ResNet, or EfficientNet with GPU optimization and quantization for efficient deployment.
 
@@ -92,14 +92,14 @@ Deployment: Use TensorFlow Lite or ONNX for healthcare integration.
 
 Multi-Disease Classification: Extend to detect other diseases (e.g., tuberculosis, COVID-19).
 
-📚 References
+# 📚 References
 
 Kaggle: For dataset and data interpretation.
 
 CNN research papers and technical blogs for architecture understanding and implementation guidance.
 
 
-Results - 
+# Results - 
 
 ![Confusion Matrix](Images/confusionmatrix.png)
 
