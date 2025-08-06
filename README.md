@@ -1,6 +1,6 @@
 # **🩺 Pneumonia Detection from Chest X-Ray Images Using Deep Learning**
 
-![Disease Detection Using CNN](Images/DiseaseDetectionUsingCNN.png)
+![Disease Detection Using CNN](images/DiseaseDetectionUsingCNN.png)
 
 
 This project develops a Convolutional Neural Network (CNN) to classify chest X-ray images for early pneumonia detection, 
@@ -101,7 +101,7 @@ CNN research papers and technical blogs for architecture understanding and imple
 
 # Results - 
 
-![Confusion Matrix](Images/confusionmatrix.png)
+![Confusion Matrix](outputs/confusionmatrix.png)
 
 
 
